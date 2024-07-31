@@ -61,3 +61,18 @@ background-color: crimson;
     position: relative;
     z-index: 2; 
 }
+.icon-habilidades{
+    color:#781C68;
+    font-size:  2em;;
+}
+.card-text{
+    text-align:justify;
+    
+}
+footer
+{
+    background-color:#781C68;
+}
+.icon-footer{
+color: white;
+}
