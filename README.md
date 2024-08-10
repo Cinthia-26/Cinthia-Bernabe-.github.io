@@ -6,7 +6,7 @@
   El proposito de esta pagina web es mostrar mi portafolio de proyecto
   como desarrolladora web 💙💙💙
 # Podras encontrarlo aqui
-![](.png).
+# https://cinthia-26.github.io/Cinthia-Bernabe-.github.io/
 
 # Tecnologias
 
