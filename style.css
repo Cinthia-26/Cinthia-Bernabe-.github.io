@@ -1,9 +1,12 @@
 *{
+    padding: 0%;
     font-family: "Montserrat", sans-serif;
 }
 
 body{
-    background-color:#FFD39A;
+   /* background-color:#FFD39A;*/
+   background: -webkit-linear-gradient(90deg, #4df2cc,#a8e2cf,#2323a8);/* Chrome 10-25, Safari 5.1-6 */                          
+   background: linear-gradient(90deg, #4df2cc,#a8e2cf,#2323a8);/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */                                             
     font-family:sans-serif;
     font-weight:bold; 
     }
@@ -14,6 +17,9 @@ header{
 }
 header span{
     color: #781C68;
+}
+.encabezado{
+    color: white;
 }
 .nav-item a:visited{
     color: #FEB941;

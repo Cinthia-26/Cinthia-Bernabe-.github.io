@@ -7,10 +7,10 @@ var typewriter = new Typewriter(app, {
 
 typewriter.typeString('Desarrolladora Fronted Jr.')
     .pauseFor(2500)
-    .deleteAll()
+    .deleteAll(5)
     .typeString('Programadora')
     .pauseFor(2500)
     .deleteChars(12)//(7)
-    .typeString('<strong>Ciencia de Datos<strong>s')
+    .typeString('<strong>Ciencia de Datos<strong>')
     .pauseFor(2500)
     .start();
